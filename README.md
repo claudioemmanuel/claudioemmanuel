@@ -1,4 +1,5 @@
-```const claudioEmmanuel: Person = {
+```
+const claudioEmmanuel: Person = {
   name: "Cláudio Emmanuel",
   title: "Full Stack Senior Engineer @ Gupy",
   location: "Belo Horizonte, Minas Gerais, Brasil",
